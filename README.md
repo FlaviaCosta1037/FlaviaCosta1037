@@ -3,10 +3,10 @@
 ####  ‣ Sou estudante do Curso de Ciências da Computação👩‍💻
 ####  ‣ Estudando Java e JS
 
-<div align="center">
+<div align="left">
   <a href="https://github.com/FlaviaCosta1037">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=FlaviaCosta1037&&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaCosta1037&layout=compact&langs_count=7&theme=dark"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=FlaviaCosta1037&&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaCosta1037&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
    
 <div style="display: inline_block"><br>
