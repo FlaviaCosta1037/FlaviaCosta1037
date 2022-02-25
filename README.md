@@ -1,6 +1,6 @@
 # Olá! Eu sou a Flávia Costa ✌😃
 ## Seja bem vinda(o) ao meu perfil
-####  🎓 Sou estudante do Curso de Ciências da Computação
+####  🎓 Estudante do Curso de Ciências da Computação
 ####  👩‍💻 Estudando Java e JS.
 
 <div align="left">
