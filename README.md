@@ -5,9 +5,9 @@
 ####   📍  Recife - PE
 
 <div align="left">
-  <a href="https://github.com/FlaviaCosta1037">
-  <img height="120em" src="https://github-readme-stats.vercel.app/api?username=FlaviaCosta1037&&theme=vue-dark&include_all_commits=true&count_private=true"/>
-  <img height="120em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaCosta1037&layout=compact&langs_count=7&theme=vue-dark"/>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FlaviaCosta1037&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FlaviaCosta1037&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
    
 <div style="display: inline_block"><br>
