@@ -2,7 +2,7 @@
 ## Seja bem vinda(o) ao meu perfil
 ####  🎓 Estudante do Curso de Ciências da Computação
 ####  👩‍💻 Estudando Java e JS.
-###   📍  Recife - PE
+####   📍  Recife - PE
 
 <div align="left">
   <a href="https://github.com/FlaviaCosta1037">
