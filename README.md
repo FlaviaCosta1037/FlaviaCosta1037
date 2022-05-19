@@ -1,7 +1,7 @@
 # Olá! Eu sou a Flávia Costa ✌😃
 ## Seja bem vinda(o) ao meu perfil
 ####  🎓 Estudante do Curso de Ciências da Computação
-####  👩‍💻 Estudando Java e JS.
+####  👩‍💻 Estudando Java | Banco de Dados | Js.
 ####   📍  Recife - PE
 
 <div align="left">
