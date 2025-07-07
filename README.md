@@ -1,8 +1,8 @@
 # Olá! Eu sou a Flávia Costa ✌😃
 ## Seja bem vinda(o) ao meu perfil
-####  🎓 Estudante do Curso de Ciências da Computação
-####  👩‍💻 Java | Java Script | NodeJs | Express .
-####   📍  Recife - PE
+####  🎓 Formada e análise e desenvolvimento de sistemas
+####  🎓 Especialização em ciência e análise de dados (Universidade de Pernambuco)
+####  👩‍💻 Python | Power BI | Pentaho data integration | SQL
 
 <div align="left">
   <a href="https://github.com/rafaballerini">
